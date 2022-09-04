@@ -5,7 +5,7 @@ CPU：qqlt
 
 motherboard: GIGA-Z170m-D3H
 
-memory: ddr3 2400mhz * 2
+memory: ddr4 2400mhz 8gb * 2
 
 display card: none
 
