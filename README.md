@@ -1,6 +1,6 @@
 # qqlt-Z170_hachintosh_oc_efi
 qqlt-Z170_hachintosh_oc_efi
-
+opencore verison : 0.7.8
 CPU：qqlt
 
 motherboard: GIGA-Z170m-D3H
